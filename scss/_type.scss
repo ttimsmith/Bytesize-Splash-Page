@@ -1,0 +1,17 @@
+@mixin sans-type {
+  font-family: "open-sans",sans-serif;
+}
+
+body {
+  font-size: 110%;
+}
+
+p {
+  font-size: 1.4em;
+  line-height: 140%;
+  margin: 0 0 5%;
+}
+
+em {
+  font-style: italic;
+}
